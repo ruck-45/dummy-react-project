@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sometype+Mono&display=swap');
+
+.MemoItemHolder{
+    display: flex;
+    flex-direction: column;
+}
+
+.MemoItemBox{
+    display: flex;
+    background-color: whitesmoke;
+    padding: 1.5rem;
+    font-size: larger;
+    text-align: center;
+    border: 2px solid;
+    outline: 3px solid white;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+.MemoItemBox div p{
+    margin: 0;
+}
+
+.MemoItemBox div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MemoItemBox div input[type = "number"]{
+    max-width: 25%;
+}
+
+.MemoItemDate{
+    width: 30%;
+    border-right: 1px solid rgba(0,0,0,0.3);
+    font-family: 'DM Sans', sans-serif;
+    color: rgba(0,0,0,0.8);
+}
+
+.MemoItemTitle{
+    width: 50%;
+    border-left: 1px solid rgba(0,0,0,0.3);
+    border-right: 1px solid rgba(0,0,0,0.3);
+    font-family: 'Varela Round', sans-serif;
+}
+
+.MemoItemPrice{
+    width: 15%;
+    border-left: 1px solid rgba(0,0,0,0.3);
+    font-family: 'Sometype Mono', monospace;
+}
+
+.profit{
+    color: green;
+}
+
+.loss{
+    color: red;
+}

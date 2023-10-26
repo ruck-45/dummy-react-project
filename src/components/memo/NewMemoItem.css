@@ -1,0 +1,20 @@
+.NewMemoItem{
+    background-color: whitesmoke;
+    padding: 1rem;
+    border: 0.1rem solid black;
+    outline: 0.1rem solid whitesmoke;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    gap: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.NewMemoItem .MemoInfo{
+    display: flex;
+    gap: 1rem;
+}
+
+.NewMemoItem button{
+    align-self: center;
+}
