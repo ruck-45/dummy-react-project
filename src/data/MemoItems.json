@@ -1,6 +1,24 @@
 {
   "MemoItems": [
     {
+      "id": "5",
+      "title": "Chicken",
+      "cost": -10,
+      "date": "2020-07-23"
+    },
+    {
+      "id": "4",
+      "title": "Pocket Money",
+      "cost": 40,
+      "date": "2020-11-20"
+    },
+    {
+      "id": "3",
+      "title": "Toilet Paper",
+      "cost": -5,
+      "date": "2020-12-01"
+    },
+    {
       "id": "2",
       "title": "Jeans",
       "cost": -20,
