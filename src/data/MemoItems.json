@@ -1,6 +1,12 @@
 {
   "MemoItems": [
     {
+      "id": "8",
+      "title": "Dipers",
+      "cost": 85,
+      "date": "2020-13-03"
+    },
+    {
       "id": "7",
       "title": "Toilet paper",
       "cost": 85,
