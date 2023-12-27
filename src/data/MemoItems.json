@@ -1,6 +1,30 @@
 {
   "MemoItems": [
     {
+      "id": "7",
+      "title": "Toilet paper",
+      "cost": 85,
+      "date": "2020-13-03"
+    },
+    {
+      "id": "6",
+      "title": "Baking Powder",
+      "cost": -16,
+      "date": "2020-11-03"
+    },
+    {
+      "id": "5",
+      "title": "Chicken",
+      "cost": -10,
+      "date": "2020-07-23"
+    },
+    {
+      "id": "4",
+      "title": "Pocket Money",
+      "cost": 40,
+      "date": "2020-11-20"
+    },
+    {
       "id": "3",
       "title": "Toilet Paper",
       "cost": -5,
